@@ -1,0 +1,33 @@
+.portal{
+    font-size :100px;
+    text-align: center;
+    color:black
+
+}
+.cuadro{
+    background-color: lightcoral;
+    margin: 50px;
+    display:grid;
+    border: black 10px solid;
+
+}
+.cuadro div{
+    background-color:  #143364;
+    margin:10px;
+    border:black 5px solid;
+    text-align: center;
+}
+.cuadrito{
+    background-color: lightcoral;
+    margin: 50px;
+    display:grid;
+    border: black 10px solid;
+    visibility: hidden;
+
+}
+.cuadrito div{
+    background-color:  #143364;
+    margin:10px;
+    border:black 5px solid;
+    text-align: center;
+}
